@@ -1,2 +1,2 @@
 print('welcome to qytang')
-import pymongo
+print('welcom to python!')

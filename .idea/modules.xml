@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/py_study.iml" filepath="$PROJECT_DIR$/.idea/py_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythoncentos/.idea/pythoncentos.iml" filepath="$PROJECT_DIR$/../pythoncentos/.idea/pythoncentos.iml" />
     </modules>
   </component>
 </project>
